@@ -1,2 +1,2 @@
-# AQI-Predictor-AQUAP
+# AQI PREDICTOR (AQUAP)
 ## Problem Statement :-
